@@ -1,2 +1,0 @@
-# Quizz-iad
-Quizz iad
